@@ -24,4 +24,4 @@ Dostrub est un organisateur de fenêtres et un gestionnaire de macros pour Dofus
 Dostrub fonctionne principalement via la détection de pixels et la simulation d'entrées clavier/souris standard. Il n'injecte aucun code dans le client de jeu, ce qui le rend plus sûr que les bots traditionnels.
 
 ---
-*Développé par Dostrubdev*
+Credit: Fait a partir de Doframe crée par Luframe mais qui a du cesser a cause de son contrat d'affilier.
