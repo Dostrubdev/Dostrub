@@ -1,5 +1,5 @@
 # ≡ Dostrub ≡
-Site internet : https://dostrubdev.github.io/Dostrub/
+Site internet : https://fromzerotosec.github.io/Dostrub
 
 Dostrub est un organisateur de fenêtres et un gestionnaire de macros pour Dofus, conçu pour faciliter le multicompte de manière fluide et intuitive.
 
